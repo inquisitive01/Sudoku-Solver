@@ -9,7 +9,7 @@
                      iii) in any 3x3 board  
 - GetPuzzle: When the user clicks on this button, he gets a puzzle to be solved.
 
-  In the code we have get made request to the following API :
+  In the code we have made get request to the following API :
   [Link To The API](https://sugoku.herokuapp.com/board)
   
   Arguments -
