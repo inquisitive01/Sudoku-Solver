@@ -24,7 +24,8 @@
 
 ![image](https://user-images.githubusercontent.com/92745924/167242465-bff61120-f905-472c-b604-d010ae1b8fa5.png)
 
-# The final screenshots of the website (After incorporating the logic from C++ in Javascript):
+# The final screenshots of the website 
+(After incorporating the logic from C++ in Javascript):
 
 ## The Landing Page
 ![image](https://user-images.githubusercontent.com/92745924/167245453-d4e06817-f67e-41d7-a99f-dbbfab675d0c.png)
