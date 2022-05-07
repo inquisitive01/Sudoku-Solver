@@ -7,7 +7,7 @@
                      i)   in row 
                      ii)  in column
                      iii) in any 3x3 board  
-- GetPuzzle: When the user clicks on this button, he gets a puzzle to be solved.
+- **GetPuzzle**: When the user clicks on this button, he gets a puzzle to be solved.
 
   In the code we have made get request to the following API :
   [Link To The API](https://sugoku.herokuapp.com/board)
@@ -18,7 +18,7 @@
   Example:
   https://sugoku.herokuapp.com/board?difficulty=easy
   
-- SolvePuzzle: When the user clicks on the button, the puzzle gets solved.
+- **SolvePuzzle**: When the user clicks on the button, the puzzle gets solved.
 ## C++ Implementation for SolvePuzzle
 **Let's first try to code our logic to solve the puzzle using backtracking algorithm in C++ programming language.**
 
