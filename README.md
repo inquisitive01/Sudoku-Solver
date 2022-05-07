@@ -13,7 +13,7 @@
   [Link To The API](https://sugoku.herokuapp.com/board)
   
   Arguments -
-       Difficulty: easy, medium, hard or random
+        easy, medium, hard or random
        
   Example:
   https://sugoku.herokuapp.com/board?difficulty=easy
