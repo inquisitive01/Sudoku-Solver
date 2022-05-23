@@ -7,7 +7,7 @@
                      i)   in row 
                      ii)  in column
                      iii) in any 3x3 board  
-- **GetPuzzle**: When the user clicks on this button, he gets a puzzle to be solved.
+- **GetPuzzle**: When the user clicks on this button, gets a puzzle to be solved.
 
   In the code we have made get request to the following API :
   [Link To The API](https://sugoku.herokuapp.com/board)
